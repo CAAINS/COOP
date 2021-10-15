@@ -42,7 +42,8 @@ A social token makes us together
 我们的社会通证技术是开源的，如今发行系统与社会钱包都已经公开的部署，希望有更多人的一同参与、改进。
 * 发行系统（airdrop issuer）：https://github.com/nervosnetwork/sudt-faucet 
 * 社会钱包（social token wallet)：https://github.com/lay2dev/social-token
-* 個人`$COOP`管理 https://tok.social/
+* 個人`$COOP`管理 unipass https://tok.social/
+* 公開交易記錄 https://explorer.nervos.org/sudt/0x0cf3d57e94e5ee45aa7412e53fedaafc35656dde91803f5e1d76bf3e7d44d5d6
     
     
 ## `$COOP` 的权利与使用场景
@@ -71,7 +72,7 @@ A social token makes us together
 - [x] 在筹备期，欢迎至ins的discord参与讨论。 https://discord.gg/hG3SGzR4Yz
 - [ ] 在完成公链测试布署后，所有文件将移至github上公开发布。
 - [ ] 完成第一波空投
-- [ ] 交易帐本公开浏览 explorer.nervos.org
+- [x] 交易帐本公开浏览 explorer.nervos.org
 - [ ] 使用 ```$COOP``` 在Sparklink上發行NFT，可以erc20定價
 - [ ] 艺术家水龙头计画
 - [ ] discord 進行社原NFT認證
