@@ -33,11 +33,11 @@ A social token makes us together
 ## 技術架構
 `$COOP` 是發行在 [Nervos Network](https://www.nervos.org/) 上的 social token。Nervos Network 是一個开放的数字经济网络，通过新颖的設計結構解决区块链技术大规模应用的问题。Nervos Network 是一个分层架构网络，一层公链 CKB 关注保持去中心化与安全，二层扩容协议提供更好的性能与更灵活的场景适配。Nervos Network 通过抽象灵活的编程模型创造与互联网兼容的帐户体系，实现与其他区块链网络的互操作，降低用户的使用门槛。Nervos Network 与互联网类似，运行于一系列开放协议上，任何人都可以自由参与运行节点。
 
-`$INS` 遵循 Nervos Network 上 sUDT token standard 发行，能够无缝集成于 Nervos Network 生态，在所有支持该标准的应用中使用。`$COOP` 客户端是一个去中心化应用，基于去中心化私钥管理技术 Unipass 设计，运行在用户本地浏览器环境中，支持用户使用 Email 作为帐户管理自己的 `$INS` token，避免了不必要的使用门槛，無須複雜的操作就能够满足日常需要。每一个 `$COOP` 用户帐户同时也是 Nervos Network 上的去中心化帐户，需要占用 Nervos Network 公链的存储空间（CKByte）。通过参与 INS 活动或是为 INS 社群做出贡献获取到`$COOP` token 的用户（参考“获取”一节），其帐户所需的存储空间将在设立帐户时由 INS 免费提供。其他用户如果需要获得`$INS` token，需要`$COOP` token 的持有者为其提供所需的存储空间（CKByte）。
+`$COOP` 遵循 Nervos Network 上 sUDT token standard 发行，能够无缝集成于 Nervos Network 生态，在所有支持该标准的应用中使用。`$COOP` 客户端是一个去中心化应用，基于去中心化私钥管理技术 Unipass 设计，运行在用户本地浏览器环境中，支持用户使用 Email 作为帐户管理自己的 `$COOP`  token，避免了不必要的使用门槛，無須複雜的操作就能够满足日常需要。每一个 `$COOP` 用户帐户同时也是 Nervos Network 上的去中心化帐户，需要占用 Nervos Network 公链的存储空间（CKByte）。通过参与 INS 活动或是为 INS 社群做出贡献获取到`$COOP` token 的用户（参考“获取”一节），其帐户所需的存储空间将在设立帐户时由 INS 免费提供。其他用户如果需要获得`$COOP` token，需要`$COOP` token 的持有者为其提供所需的存储空间（CKByte）。
 
 第一阶段将实现`$COOP` token 的基本功能，满足社群经济的基本需求。`$COOP` token 是一种真正由用户持有，完全属于个人的 token，无论是 INS 社群还是其他任何人无法干涉用户对自己 `$COOP` token 的运用。未来我们可以根据发展需要，围绕 `$COOP` token 增加更多的功能和应用场景。
 
-`$INS` 为定量通证，发行上限为2300万枚，第一年首发行100万枚，第二年按照任务总量与贡献度共发行200万枚，其中百分之三十，按照拥有`$COOP` 的数量按比例以平方根的方式发送，作为社群贡献度的回馈。往后每年依据`$COOP` 地址数量的倍数发行，由社群治理共同决定发行量、回馈比例与公益回馈项目。
+`$COOP` 为定量通证，发行上限为2300万枚，第一年首发行100万枚，第二年按照任务总量与贡献度共发行200万枚，其中百分之三十，按照拥有`$COOP` 的数量按比例以平方根的方式发送，作为社群贡献度的回馈。往后每年依据`$COOP` 地址数量的倍数发行，由社群治理共同决定发行量、回馈比例与公益回馈项目。
 
 我们的社会通证技术是开源的，如今发行系统与社会钱包都已经公开的部署，希望有更多人的一同参与、改进。
 * 发行系统（airdrop issuer）：https://github.com/nervosnetwork/sudt-faucet 
