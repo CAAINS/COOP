@@ -69,14 +69,4 @@ A social token makes us together
 7. 所有持有 `$INS` 者，可以自行提出需求，自由交易其創作、产品，时间、劳力、艺术品，与一切亲爱的。
 
 ## 社群近期计画
-- [x] 在筹备期，欢迎至ins的discord参与讨论。 https://discord.gg/hG3SGzR4Yz
-- [ ] 在完成公链测试布署后，所有文件将移至github上公开发布。
-- [ ] 完成第一波空投
-- [x] 交易帐本公开浏览 explorer.nervos.org
-- [ ] 使用 ```$COOP``` 在Sparklink上發行NFT，可以erc20定價
-- [ ] 艺术家水龙头计画
-- [ ] discord 進行社原NFT認證
-- [ ] 进行类"时间银行"的网站开发工作，让社群使用者方便的交换所需。
-- [ ] 进行艺术社员的买卖交易dapp开发
-- [ ] 发行社员NFT，讨论社群建设与推进工作。
-- [ ] 成立社群治理中心，推动议题与工作。
+請參考ROADMAP。 https://github.com/CAAINS/COOP/projects/1
