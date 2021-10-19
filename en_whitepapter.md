@@ -1,4 +1,4 @@
-# INS Social Token：White Paper of $COOP V 0.9
+# INS Social Token：White Paper of $COOP  [V0.9]
 
 
 :::
