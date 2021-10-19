@@ -55,15 +55,15 @@ In the first phase, we will implement the basic functions of `$COOP`  token to m
 
 Our social token technology is open source, and now the issuance system and social wallet have been deployed publicly, and we hope more people will participate and improve them.
 
- ·Airdrop issuer: https://github.com/nervosnetwork/sudt-faucet
- ·Social token wallet: https://github.com/wlheart001/social-token
- ·Personal `$COOP` management https://tok.social/
- ·Transaction history https://explorer.nervos.org/sudt/0x0cf3d57e94e5ee45aa7412e53fedaafc35656dde91803f5e1d76bf3e7d44d5d6
+ * Airdrop issuer: https://github.com/nervosnetwork/sudt-faucet
+ * Social token wallet: https://github.com/wlheart001/social-token
+ * Personal `$COOP` management https://tok.social/
+ * Transaction history https://explorer.nervos.org/sudt/0x0cf3d57e94e5ee45aa7412e53fedaafc35656dde91803f5e1d76bf3e7d44d5d6
 
 
 ## Where Could $COOP Be Used
 
-Having `$COOP` means that you have joined a cooperative formed by a team of academics, artists and technicians with `INS` as the core, and have the status of associate member. When you reach a certain level of contribution (e.g. owning an NFT of INS), you are a member and can participate in voting and organization promotion decisions, either as an individual or as an organization. The biggest difference between the shareholder system and the DAO system is that members have equal voting rights regardless of their assets, one person, one vote, and both members and associate members can earn `$INS`  for their labor, time, or monetary contributions to the community, with an appropriate percentage given back each year. `INS`  will issue the first commune member logos in the form of 88 NFTs, sixteen of which are reserved for co-promoters.  They will be purchased with $COOP or other cryptocurrencies (80:20 ratio, the former for contributions and the latter for investments and sponsorships). This NFT is also the membership card of this academic community cooperative, and members will be able to participate in the organizational decisions of the $COOP. This NFT can be resold and traded, and membership can be transferred, as evidenced by ownership of the NFT.
+Having `$COOP` means that you have joined a cooperative formed by a team of academics, artists and technicians with `INS` as the core, and have the status of associate member. When you reach a certain level of contribution (e.g. owning an NFT of INS), you are a member and can participate in voting and organization promotion decisions, either as an individual or as an organization. The biggest difference between the shareholder system and the DAO system is that members have equal voting rights regardless of their assets, one person, one vote, and both members and associate members can earn `$COOP` for their labor, time, or monetary contributions to the community, with an appropriate percentage given back each year. `INS`  will issue the first commune member logos in the form of 88 NFTs, sixteen of which are reserved for co-promoters.  They will be purchased with $COOP or other cryptocurrencies (80:20 ratio, the former for contributions and the latter for investments and sponsorships). This NFT is also the membership card of this academic community cooperative, and members will be able to participate in the organizational decisions of the $COOP. This NFT can be resold and traded, and membership can be transferred, as evidenced by ownership of the NFT.
 
 
 ### Gain it
@@ -72,8 +72,8 @@ Having `$COOP` means that you have joined a cooperative formed by a team of acad
 2. For [INS newsletter](https://news.caa-ins.org/) subscribers, 200 subscribers will be randomly selected for the airdrop.
 3. If you have `$INC`, which is the erc20 standard token on Ether and can be considered as a counterpart on the Ether chain and it can be exchanged for `$COOP` in equal amounts.
 4. If you have `$MASK`, `$ETH`, `$CKB`, `$METIC`, etc. and are willing  to join the community, you can transfer to the account inetworksocity.bit, leave your email in the transaction note and you will receive the equivalent of `$COOP`. A list of tradable currencies will be published later.
-5. You can actively participate in INS projects, research projects, fieldwork, workshop volunteering, long-term projects such as Archverse, Rural China Studies, etc. to get `$INC`. INS will regularly announce the content and methods of participation.
-6. `$COOP` Fountain: If you are an artist and need but can't get `$COOP`, please fill out this form and return it to the [discord](https://discord.com/invite/hG3SGzR4Yz) #socialtoken channel, we will respond within 3 days. If you would like to support emerging artists, you can also donate `$INS`  sponsorship to the Artist Bitcoin-faucet account.
+5. You can actively participate in INS projects, research projects, fieldwork, workshop volunteering, long-term projects such as Archverse, Rural China Studies, etc. to get `$COOP`. INS will regularly announce the content and methods of participation.
+6. `$COOP` Fountain: If you are an artist and need but can't get `$COOP`, please fill out this form and return it to the [discord](https://discord.com/invite/hG3SGzR4Yz) #socialtoken channel, we will respond within 3 days. If you would like to support emerging artists, you can also donate `$COOP`  sponsorship to the Artist Bitcoin-faucet account.
 7. Anyone is free to participate in projects and initiatives planned by the community and earn tokens. Prospective members and members are free to exchange and buy tokens or give them to friends without permission.
 
 
@@ -84,4 +84,4 @@ Having `$COOP` means that you have joined a cooperative formed by a team of acad
 3. These rights extend to events and programs organized by all members and associate members.
 4. Subscription to or access to INS publications and journals.
 5. Access to Sparklink participation opportunities to be implemented by INS.
-6. All `$INS` holders will be free to trade their creations, products, time, labor, artwork, and anything else dear to them, upon request.
+6. All `$COOP` holders will be free to trade their creations, products, time, labor, artwork, and anything else dear to them, upon request.
