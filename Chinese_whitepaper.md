@@ -54,7 +54,7 @@ A social token makes us together
 1. 凡是参与过INS主办的活动，无论年会、会议、讲座、工作坊、志工、专项研究项目、Decentraland 协助建模的志工等朋友，你什么都不用做，你将会透过 email 收到空投，免手续费与 gas 费用。 
 2. [订阅INS电子报](https://news.caa-ins.org/)者，将随机抽出二百名订阅者名额空投。
 3. 若你持有惰币 `$INC`, 这是以太坊上的erc20標準通证，可视为以太坊链上的对等通证，可以等数换取`$COOP` 。
-5. 若你持有`$MASK`, `$ETH` ```＄CKB``` ```＄METIC ```等货币，要加入社群，你可以转至帐户`inetworksocity.bit`, 在交易备注上留下 email，将会收到等价的 `$COOP`。具体可交易货币清单会在日后公布。
+5. 若你持有`$MASK`, `$ETH` ```＄CKB``` ```＄MATIC ```等货币，要加入社群，你可以转至帐户`inetworksocity.bit`, 在交易备注上留下 email，将会收到等价的 `$COOP`。具体可交易货币清单会在日后公布。
 6. 你可以主动参与INS进行的计划、研究项目、田野调查、工作坊志工、长期项目如 Archverse ，乡建中国研究等，来获取 `$COOP`， `INS` 将会定期公告参与内容与方式。
 7. `$COOP` Fountain ：如果你是艺术家，需要而无法取得`$COOP`，请填此表，并于[discourd](https://discord.gg/hG3SGzR4Yz) #socialtoken 频道回报，我们将在三天之内回应。若你想支持新兴的艺术家，也可以将`$COOP`赞助捐赠给艺术家水龙头专属帐号。
 8. 任何人都可以自由参与社群筹划进行的项目与计画，获取通证。准社员与社员皆无需允许，自由交换买卖通证，或赠与好友。
