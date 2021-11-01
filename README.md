@@ -1,4 +1,4 @@
-# ```$COOP``` : A social token makes us together
+# ```$COOP``` : A social token brings us together
 
 ## What is ```$coop?```
 ## Who initialize it?
