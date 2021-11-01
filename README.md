@@ -5,7 +5,9 @@
 
 ```$COOP```is a community cooperative currency built on the Nervos public chain, making it easier and more autonomous for members to exchange time and labor
 
-see more ate [中文白皮書](https://github.com/CAAINS/COOP/blob/main/Chinese_whitepaper.md)， [Eenglish whitepaper](https://github.com/CAAINS/COOP/blob/main/en_whitepapter.md)。
+see more at 
+* [中文白皮書](https://github.com/CAAINS/COOP/blob/main/Chinese_whitepaper.md)
+*  [Eenglish whitepaper](https://github.com/CAAINS/COOP/blob/main/en_whitepapter.md)
 
 ## Who initialize it?
 
