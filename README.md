@@ -1,4 +1,6 @@
-![IMG_6408](https://user-images.githubusercontent.com/406686/139626636-06c87342-45e7-44a3-9cd5-58b6ed7f315f.PNG)
+
+![icon_smaller](https://user-images.githubusercontent.com/406686/139627049-eff3c35b-7e61-4469-a6b8-2a941ce0ae74.png)
+
 
 # ```$COOP``` : A social token brings us together
 
