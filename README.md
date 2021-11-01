@@ -1,3 +1,5 @@
+![IMG_6408](https://user-images.githubusercontent.com/406686/139626636-06c87342-45e7-44a3-9cd5-58b6ed7f315f.PNG)
+
 # ```$COOP``` : A social token brings us together
 
 ## What is ```$coop?```
