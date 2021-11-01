@@ -9,9 +9,3 @@ see more at
 * [中文白皮書](https://github.com/CAAINS/COOP/blob/main/Chinese_whitepaper.md)
 *  [Eenglish whitepaper](https://github.com/CAAINS/COOP/blob/main/en_whitepapter.md)
 
-## Who initialize it?
-
-
-## How to gain and use it?
-## How to join the community?
-## Is a alternative world possible? 
