@@ -9,7 +9,7 @@
 
 ``$COOP`` is a community cooperative coin built on the Nervos public chain, making it easier and more autonomous for the community to exchange time and labor. The technical structure is designed in such a way that each airdroped account (associate member) contains enough CKB to add ``$COOP`` accounts for two friends, and all transfers between ```$COOP``` accounts are free of charge (there are enough fees for 10,000 transactions), making there no threshold for reciprocal transactions in community.
 
-see more at 
+See more det 
 * [中文白皮書](https://github.com/CAAINS/COOP/blob/main/Chinese_whitepaper.md)
 *  [Eenglish whitepaper](https://github.com/CAAINS/COOP/blob/main/en_whitepapter.md)
 
