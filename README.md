@@ -11,6 +11,6 @@
 
 See more at
 * [中文白皮書](https://github.com/CAAINS/COOP/blob/main/Chinese_whitepaper.md)
-*  [Eenglish whitepaper](https://github.com/CAAINS/COOP/blob/main/en_whitepapter.md)
+*  [English whitepaper](https://github.com/CAAINS/COOP/blob/main/en_whitepapter.md)
 *  join discord https://discord.gg/wevcCgVrvK
 
