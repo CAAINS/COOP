@@ -71,10 +71,9 @@ Having `$COOP` means that you have joined a cooperative formed by a team of acad
 1. For those who have participated in INS-sponsored events, be it annual conferences, meetings, lectures, workshops, volunteer work, special research projects, Decentraland volunteers assisting in modeling, etc., without doing anything, you will receive an airdrop via email, free of charge and gas fees.
 2. For [INS newsletter](https://news.caa-ins.org/) subscribers, 200 subscribers will be randomly selected for the airdrop.
 3. If you have `$INC`, which is the erc20 standard token on Ether and can be considered as a counterpart on the Ether chain and it can be exchanged for `$COOP` in equal amounts.
-4. If you have `$MASK`, `$ETH`, `$CKB`, `$MATIC`, etc. and are willing  to join the community, you can transfer to the account inetworksocity.bit, leave your email in the transaction note and you will receive the equivalent of `$COOP`. A list of tradable currencies will be published later.
-5. You can actively participate in INS projects, research projects, fieldwork, workshop volunteering, long-term projects such as Archverse, Rural China Studies, etc. to get `$COOP`. INS will regularly announce the content and methods of participation.
-6. `$COOP` Fountain: If you are an artist and need but can't get `$COOP`, please fill out this form and return it to the [discord](https://discord.com/invite/hG3SGzR4Yz) #socialtoken channel, we will respond within 3 days. If you would like to support emerging artists, you can also donate `$COOP`  sponsorship to the Artist Bitcoin-faucet account.
-7. Anyone is free to participate in projects and initiatives planned by the community and earn tokens. Prospective members and members are free to exchange and buy tokens or give them to friends without permission.
+4. You can actively participate in INS projects, research projects, fieldwork, workshop volunteering, long-term projects such as Archverse, Rural China Studies, etc. to get `$COOP`. INS will regularly announce the content and methods of participation.
+5. `$COOP` Fountain: If you are an artist and need but can't get `$COOP`, please fill out this form and return it to the [discord](https://discord.com/invite/hG3SGzR4Yz) #socialtoken channel, we will respond within 3 days. If you would like to support emerging artists, you can also donate `$COOP`  sponsorship to the Artist Bitcoin-faucet account.
+6. Anyone is free to participate in projects and initiatives planned by the community and earn tokens. Prospective members and members are free to exchange and buy tokens or give them to friends without permission.
 
 
 ### Use it
