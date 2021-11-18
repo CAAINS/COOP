@@ -13,4 +13,4 @@ See more at
 * [中文白皮書](https://github.com/CAAINS/COOP/blob/main/Chinese_whitepaper.md)
 *  [English whitepaper](https://github.com/CAAINS/COOP/blob/main/en_whitepapter.md)
 *  join discord https://discord.gg/wevcCgVrvK
-*  空投領取指南：https://github.com/CAAINS/COOP/blob/main/COOP%E9%80%9A%E8%AF%81%E9%A2%86%E7%94%A8%E6%8C%87%E5%8D%97.md
+*  空投領取指南：https://codimd.caa-ins.org/s/r1-hbmW_t
