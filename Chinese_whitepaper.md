@@ -44,7 +44,7 @@ A social token makes us together
 * 社会钱包（social token wallet)：https://github.com/wlheart001/social-token
 * 個人`$COOP`管理 unipass https://tok.social/
 * 公開交易記錄 https://explorer.nervos.org/sudt/0x0cf3d57e94e5ee45aa7412e53fedaafc35656dde91803f5e1d76bf3e7d44d5d6
-    
+* 社區交換網站 https://coop.caa-ins.org 
     
 ## `$COOP` 的权利与使用场景
 拥有` $COOP`者，即意味了参加了以 `INS` 为核心的学术、艺术家与技术团队共组的合作社，拥有准社员资格。当你贡献度达一定标准后（如拥有INS的NFT），则是社员，可以参与投票与组织推进决策，社员可以是个人或者组织。与一般公司股东制度跟DAO最大的不同是，社员无论拥有资产多少，投票权利是相等的，一人一票，而社员与准社员皆能以劳力时间或金钱投入来获取`$COOP`，此为对社群贡献度计算，每年度将会有适当的比例回馈。`INS` 将发行首批社员标志88枚NFT，其中有十六枚保留给联合发起者。使用 `$COOP` 或其他加密货币购买(比率為80：20，前者為奉獻度，後者為投資與贊助）。此 NFT 也是这个学术社群合作社的社员证，社员将可参与 `$COOP`的组织决策。此 NFT 可以转卖交易，社员资格可以转移，以拥有 NFT 为凭证。
