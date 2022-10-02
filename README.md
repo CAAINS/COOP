@@ -14,3 +14,4 @@ See more at
 *  [English whitepaper](https://github.com/CAAINS/COOP/blob/main/en_whitepapter.md)
 *  join discord https://discord.gg/wevcCgVrvK
 *  空投領取指南：https://codimd.caa-ins.org/s/r1-hbmW_t
+*  升级到 Godwoken 生态，使用小狐狸使用COOP：https://news.caa-ins.org/p/coop2022q3
